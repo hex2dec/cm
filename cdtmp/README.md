@@ -9,5 +9,5 @@ go build
 Usage
 
 ```bash
-./cdtmp -h
+cdtmp
 ```
