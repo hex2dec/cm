@@ -2,7 +2,7 @@
 
 ## Tools
 
-* [DNS Lookup](./dns-lookup)
+* [DNS Lookup Host](./dns-lookup-host)
 
 ## WIP
 
