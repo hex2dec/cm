@@ -1,7 +1,5 @@
 # Utilities
 
-## Tools
-
 * [DNS Lookup Host](./dns-lookup-host)
 
 ## WIP
