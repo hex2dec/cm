@@ -1,21 +1,10 @@
 # Utilities
 
-## Code Manager
+## Tools
 
-Build code-manager
+* [DNS Lookup](./dns-lookup)
 
-```bash
-cd code-manager
-go build
-```
+## WIP
 
-Usage code-manager
+* [Code Manager](./code-manager)
 
-```bash
-code-manager -h
-
-Usage of code-manager:
-  -h    print usage message(shorthand)
-    -help
-            print usage message
-```
