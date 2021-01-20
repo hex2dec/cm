@@ -1,4 +1,4 @@
-# DNS Lookup
+# DNS Lookup Host
 
 Build dns-lookup-host
 
